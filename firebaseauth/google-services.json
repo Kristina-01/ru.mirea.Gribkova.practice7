@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542145693739",
+    "project_id": "ru-mirea-gribkova-practice7",
+    "storage_bucket": "ru-mirea-gribkova-practice7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542145693739:android:81ee64cf57c2d24582826e",
+        "android_client_info": {
+          "package_name": "ru.mirea.gribkova.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542145693739-75dualrnrmbispb830urftd2d7ojak7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6o4hqaTA5V9Pxa-nXcqdvND4scz0T9Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542145693739-75dualrnrmbispb830urftd2d7ojak7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
